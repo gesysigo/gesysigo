@@ -1,16 +1,13 @@
-## Hi there 👋
+**Seja bem vindo ao meu perfil**🥇
 
-<!--
-**gesysigo/gesysigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ especial ✨
+
+- Sou uma estudante de tecnologia da Jânio Quadros
+
+- Estou aqui para aprender Github
+
+- Utilizamos a plataforma do alura para adquirir novos conhecimentos
+
+- Espero muito aprender 
